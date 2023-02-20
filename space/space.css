@@ -1,0 +1,45 @@
+body{
+    color: whitesmoke;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.main{
+    background-image: url("200w\ \(2\).webp");
+    background-size: 270px ;
+    padding:20px 0 300px 0;
+   
+
+}
+
+.btn{
+    padding:7px 15px;
+    background: rgb(255, 255, 255);
+    border: none;
+    font-family: inherit;
+    color:black;
+    font-weight:bold;
+}
+
+.spn{
+    /* text-decoration: underline ; */
+    border-bottom: 2px solid whitesmoke;
+}
+ .img{
+    width:200px;
+    margin: 30px;
+   
+   
+    
+} 
+
+#shadow{
+    text-shadow: 1px 1px  rgb(253, 252, 252);
+}
+
+.h3{
+    background: black;
+    padding: 20px;
+    text-shadow: 1px 1px  rgb(253, 252, 252);
+}
